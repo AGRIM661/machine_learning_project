@@ -1,2 +1,2 @@
 # machine_learning_project
-here uploaded machine classificatin ,linear regression project
+here uploaded machine classification ,linear regression project
